@@ -1,0 +1,9 @@
+Flask
+pymongo
+yagmail
+requests
+apscheduler
+python-dotenv
+google-genai  
+pytz  
+gunicorn
